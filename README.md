@@ -75,7 +75,7 @@
 
 ###
 
-<br clear="both">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperBT02/SuperBT02/output/github-snake-dark.svg" />
