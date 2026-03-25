@@ -1,4 +1,4 @@
-<h3 align="left">Hi👋 I'm Rayen a Tunsian Computer Engineering student and a Mobile Junior Developer .I'm usely a curious personal trying to always improve myself</h3>
+<h3 align="left">Hi👋 I'm Rayen a Tunsian Computer Engineering student and a Data scientist Junior .I'm usely a curious personal trying to always improve myself</h3>
 
 ###
 
